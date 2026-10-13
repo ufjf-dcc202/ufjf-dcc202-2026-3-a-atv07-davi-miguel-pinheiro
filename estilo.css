@@ -1,0 +1,18 @@
+
+       em {
+      color: green; 
+      text-decoration:underline;
+        }
+      code  {
+      color: aquamarine; 
+      text-decoration: underline;
+        }
+      body > main > ol > li:nth-child(1) > code {
+        color: brown;
+        background-color: black;
+        border: 0cqh;
+        display: block;
+        cursor: ew-resize;
+
+        }
+    
